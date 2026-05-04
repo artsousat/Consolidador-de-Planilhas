@@ -44,7 +44,7 @@ Local: http://localhost:3000
 
 Open this link in your browser, the project will be running.
 
-5 - Stop the Project
+5. Stop the Project
 
 Press:
 Ctrl + C in terminal
